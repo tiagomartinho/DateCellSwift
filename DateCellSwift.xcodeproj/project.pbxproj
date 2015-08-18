@@ -77,11 +77,8 @@
 		EAA6FF391B83540800233E7A /* DateCellSwift */ = {
 			isa = PBXGroup;
 			children = (
-				EAA6FF3C1B83540800233E7A /* AppDelegate.swift */,
 				EAA6FF3E1B83540800233E7A /* ViewController.swift */,
 				EAA6FF401B83540800233E7A /* Main.storyboard */,
-				EAA6FF431B83540800233E7A /* Images.xcassets */,
-				EAA6FF451B83540800233E7A /* LaunchScreen.xib */,
 				EAA6FF3A1B83540800233E7A /* Supporting Files */,
 			);
 			path = DateCellSwift;
@@ -90,6 +87,9 @@
 		EAA6FF3A1B83540800233E7A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				EAA6FF3C1B83540800233E7A /* AppDelegate.swift */,
+				EAA6FF431B83540800233E7A /* Images.xcassets */,
+				EAA6FF451B83540800233E7A /* LaunchScreen.xib */,
 				EAA6FF3B1B83540800233E7A /* Info.plist */,
 			);
 			name = "Supporting Files";
